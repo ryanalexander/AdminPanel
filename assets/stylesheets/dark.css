@@ -1,0 +1,31 @@
+* {margin:0;padding:0;}
+
+body {
+    background: #1d1d1d;
+}
+
+.material-icons {
+    vertical-align: center;
+}
+
+.card {
+    background: #373a45;
+    color: #fbfbfb;
+}
+
+div#container {
+    width: 90%;
+    margin: 1.5em auto;
+}
+div#container div {
+    display: inline-block;
+}
+
+div#punish-actions {
+    left: 0;
+    position: absolute;
+    padding: 4% 0;
+    bottom: 1px;
+    width: 100%;
+    text-align: center;
+}
